@@ -1,0 +1,29 @@
+diff --git a/index.html b/index.html
+index 68d4cef..ef93a37 100644
+--- a/index.html
++++ b/index.html
+@@ -777,6 +777,24 @@
+     </div>
+   </section>
+ 
++  <!-- ABOUT -->
++  <section class="about" id="about">
++    <div class="about-content">
++      <p class="section-label reveal">Who built this</p>
++      <h2 class="section-title reveal" style="margin-bottom: 0;">Meet the Makers</h2>
++      <div class="maker reveal">
++        <div class="maker-name">Swetha Ranganathan</div>
++        <div class="maker-tagline">Building the future at KPMG · PES University CSE</div>
++        <p class="maker-bio">A researcher and builder with publications in quantum security, Swetha brings deep expertise in Quantum Computing, CyberSecurity, and GenAI. When not exploring the frontiers of tech, she's building tools like FocusTrace to help people understand their time.</p>
++      </div>
++      <div class="maker reveal">
++        <div class="maker-name">Rytham Saini</div>
++        <div class="maker-tagline">Code for a cause · SRM University CSE</div>
++        <p class="maker-bio">Passionate about building software that actually matters, Rytham combines her CSE background with a drive to create meaningful solutions. She's the other half of FocusTrace, crafting the features that make time tracking feel effortless.</p>
++      </div>
++    </div>
++  </section>
++
+   <!-- DOWNLOAD -->
+   <section class="download" id="download">
+     <div class="download-bg"></div>

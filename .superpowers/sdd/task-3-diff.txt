@@ -1,0 +1,20 @@
+diff --git a/index.html b/index.html
+index ef93a37..e3d60cb 100644
+--- a/index.html
++++ b/index.html
+@@ -637,6 +637,7 @@
+       <li><a href="#features">Features</a></li>
+       <li><a href="#how">How it works</a></li>
+       <li><a href="#download">Download</a></li>
++      <li><a href="#about">About</a></li>
+       <li><a href="https://github.com/SwethaRanganathan0184/FocusLens_Desktop" target="_blank">GitHub</a></li>
+       <li><button class="theme-btn" onclick="toggleTheme()" id="theme-btn" title="Toggle theme">🌙</button></li>
+       <li><a href="#download" class="nav-cta">Download Free</a></li>
+@@ -832,6 +833,7 @@
+       <li><a href="https://github.com/SwethaRanganathan0184/FocusLens_Desktop" target="_blank">GitHub</a></li>
+       <li><a href="https://github.com/SwethaRanganathan0184/FocusLens_Desktop/releases" target="_blank">Releases</a></li>
+       <li><a href="https://console.groq.com" target="_blank">Get Groq API Key</a></li>
++      <li><a href="#about">About</a></li>
+     </ul>
+   </footer>
+ 
